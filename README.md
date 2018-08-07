@@ -1,0 +1,2 @@
+# cloudcomputingcourses
+Cloud computing provides various IT services in the form of application to the end-user via the internet. Cloud technology is defined as a set of networks, hardware, services, interface and storage that are combined to deliver all aspects of cloud services. Some of the cloud services even consist of infrastructure, software delivery and also provide virtual storage. IIHT provides the Cloud Computing Courses with the latest technology for the Industry.
